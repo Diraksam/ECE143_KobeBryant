@@ -22,7 +22,7 @@ Following dependencies are needed to run the code:
 Additional dependencies that we used for data extraction and cleaning
   - BeautifulSoup
   
-The main datasets is extracted from basketballreference.com using BeautifulSoup and directly downloaded from Kaggle.
+The main datasets are extracted from basketballreference.com using BeautifulSoup and directly downloaded from Kaggle.
 
 After building all the dependencies, simply run main.py to obtain all the plots.
   
