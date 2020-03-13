@@ -1,8 +1,9 @@
 # ECE143: Analyzing Career Statistics and Shooting Trends of Kobe Bryant 
-##### Diraksa Munajat  
-##### Hoanan Peng  
-##### Guanqing Li  
-##### Onur Tepençelik  
+#### Group 12:
+  Diraksa Munajat  
+  Hoanan Peng  
+  Guanqing Li  
+  Onur Tepençelik  
 
 #### Overview:
 - Build
