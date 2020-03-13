@@ -4,7 +4,6 @@
 ##### Guanqing Li  
 ##### Onur Tepençelik  
 
-
 #### Overview:
 - Build
 - Data Cleaning
@@ -18,13 +17,17 @@ Following dependencies are needed to run the code:
   - Matplotlib
   - Plotly
   - urllib
+  #### - Dependencies can be build with the following command/s:
+    - pip install -name-
+    Example:
+    - pip install plotly
 
 Additional dependencies that we used for data extraction and cleaning
   - BeautifulSoup
   
 The main datasets are extracted from basketballreference.com using BeautifulSoup and directly downloaded from Kaggle.
 
-After building all the dependencies, simply run main.py to obtain all the plots.
+After building all the dependencies, simply run main.py in the Jupyter notebook to get the following output described and shown in the Kobe notebook.
   
 ## Data Cleaning
 
@@ -38,5 +41,4 @@ end of quarter, for further analysis.
 
 Data is analyzed and visualized using various techniques. Visualizing the shot attempts on a basketball court is very effective
 for analyzing shooting trends. Bar, pie, radar and line plots are used to analyze career statistics of Kobe Bryant.
-
 
