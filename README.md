@@ -1,4 +1,5 @@
-# ECE143: Analyzing Career Statistics and Shooting Trends of Kobe Bryant 
+# ECE143: Programming for Data Analysis
+### Analyzing Career Statistics and Shooting Trends of Kobe Bryant 
 #### Group 12:
   Diraksa Munajat  
   Hoanan Peng  
