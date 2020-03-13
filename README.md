@@ -16,12 +16,12 @@ Following dependencies are needed to run the code:
   - NumPy
   - Pandas
   - Matplotlib
-  - Plotly
+  - Plotly (4.5.4)
   - urllib
   #### - Dependencies can be build with the following command/s:
     - pip install -name-
     Example:
-    - pip install plotly
+    -  install plotly==4.5.4
 
 Additional dependencies that we used for data extraction and cleaning
   - BeautifulSoup
