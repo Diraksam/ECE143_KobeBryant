@@ -21,7 +21,7 @@ Following dependencies are needed to run the code:
   #### - Dependencies can be build with the following command/s:
     - pip install -name-
     Example:
-    -  install plotly==4.5.4
+    - pip install plotly==4.5.4
 
 Additional dependencies that we used for data extraction and cleaning
   - BeautifulSoup
