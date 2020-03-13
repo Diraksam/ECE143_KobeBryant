@@ -1,3 +1,5 @@
+import pandas as pd
+import numpy as np
 # Read the statsr
 def load_frames():
     """
