@@ -44,3 +44,6 @@ end of quarter, for further analysis.
 Data is analyzed and visualized using various techniques. Visualizing the shot attempts on a basketball court is very effective
 for analyzing shooting trends. Bar, pie, radar and line plots are used to analyze career statistics of Kobe Bryant.
 
+## Viewing the Project
+
+Just click the Jupyter Notebook : Kobe Shot Selection.ipynb
